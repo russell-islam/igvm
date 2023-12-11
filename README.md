@@ -1,5 +1,6 @@
 # igvm
 
+test
 [![crates.io](https://img.shields.io/crates/d/igvm?label=crates.io%2Figvm)](https://crates.io/crates/igvm)
 [![docs.rs](https://img.shields.io/docsrs/igvm?label=docs.rs%2Figvm)](https://docs.rs/igvm/)
 [![crates.io](https://img.shields.io/crates/d/igvm_defs?label=crates.io%2Figvm_defs)](https://crates.io/crates/igvm_defs)
